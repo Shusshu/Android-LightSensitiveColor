@@ -23,7 +23,6 @@
             <groupId>be.billington.android.light-sensitive-color</groupId>
 			<artifactId>library</artifactId>
 			<version>${project.parent.version}</version>
-			<type>apklib</type>
 		</dependency>
 	</dependencies>
 

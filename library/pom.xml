@@ -10,7 +10,7 @@
 
 	<name>Android Light Sensitive Color - Library</name>
 	<artifactId>library</artifactId>
-	<packaging>apklib</packaging>
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>
