@@ -18,7 +18,7 @@
     <description>This library allows you to set a range of colors you want your component to use depending on the lighting</description>
     <developers>
         <developer>
-            <id>...</id>
+            <id>android-light-sensitive-color-project</id>
             <name>Benoit Billington</name>
             <email>benoit.billington@gmail.com</email>
         </developer>
