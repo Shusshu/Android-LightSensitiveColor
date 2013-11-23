@@ -11,7 +11,7 @@
 	<name>Android Light Sensitive Color - Parent</name>
 	<groupId>be.billington.android.light-sensitive-color</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>pom</packaging>
 
 	<url>http://www.github.com/Shusshu/Android-LightSensitiveColor</url>
