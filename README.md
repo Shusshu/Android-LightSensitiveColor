@@ -15,13 +15,13 @@ Maven:
     <dependency>
       <groupId>be.billington.android.light-sensitive-color</groupId>
       <artifactId>library</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 	
 	
 Gradle:
 
-	compile 'be.billington.android.light-sensitive-color:library:1.0.0'
+	compile 'be.billington.android.light-sensitive-color:library:1.0.1'
 
 
 License
