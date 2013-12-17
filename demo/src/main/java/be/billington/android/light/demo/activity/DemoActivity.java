@@ -1,4 +1,4 @@
-package be.billington.android.light.activity;
+package be.billington.android.light.demo.activity;
 
 import android.app.Activity;
 import android.hardware.SensorManager;
@@ -7,7 +7,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import be.billington.android.light.LightSensorColorController;
-import be.billington.android.light.R;
+import be.billington.android.light.demo.R;
 
 public class DemoActivity extends Activity {
 
